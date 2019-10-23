@@ -35,4 +35,4 @@ def scan(direction):
 				result.append(pair)
 	return result
 
-print(scan('123'))
+print(scan('kill the bear'))
